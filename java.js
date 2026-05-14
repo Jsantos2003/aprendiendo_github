@@ -1,0 +1,1 @@
+const mi_jul = "30";
